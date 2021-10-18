@@ -1,0 +1,71 @@
+
+/*-------- login-form-1 start------------*/
+.login{
+    background-image: linear-gradient(to right, #ff5722,#ff9800);
+   
+    padding: 30px 30px;
+}
+.register-left{
+    text-align: center;
+    color: #fff;
+    padding: 30px;
+}
+.register-left p{
+    padding: 20px 20px 0;
+}
+.register-left .btn-primary{
+    border-radius: 1.5rem;
+    border: none;
+    font-weight: 600;
+    width: 120px;
+    color: #555;
+    background: #f8f8f8;
+    margin-top: 20px;
+    padding: 10px;
+}
+.register-left .btn-primary:hover{
+    background: #000;
+    color: #fff;
+}
+.register-right{
+    border: none;
+    background: #f8f8f8;
+    border-top-left-radius: 10% 50%;
+    border-bottom-left-radius: 10% 50%;
+    padding: 50px;
+}
+.register-right h2{
+    text-align: center;
+    color: #555;
+    margin-bottom: 10px;
+}
+.register-right{}
+.register-right{}
+.register-form{
+    padding: 30px;
+}
+.form-control:focus{
+    box-shadow: none;
+}
+.register-right .btn-primary{
+    float: right;
+    border-radius: 1.5rem;
+    border: none;
+    font-weight: 600;
+    width: 120px;
+    color: #fff;
+    background: #ff9800;
+    margin-top: 20px;
+    padding: 10px;
+}
+.register-right .btn-primary:hover{
+    background: #ff5722;
+}
+
+
+/*-------- login-form-1 end------------*/
+
+
+
+
+
